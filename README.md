@@ -1,5 +1,5 @@
 # Introduction to Natural Language Processing
-Hey There! Are you looking for learning Natural Language Processing? Then this notebook is for you!  This notebook contains all basic topics for NLP along multiples examples. It's base on the Coursera Specialization by DeepLearning.AI
+Hey there! Are you looking for learning Natural Language Processing? Then this notebook is for you!  This notebook contains all basic topics for NLP along multiples examples. It's base on the Coursera Specialization by DeepLearning.AI
 
 # Topics: 
 * Vocabulary and Features Extraction
