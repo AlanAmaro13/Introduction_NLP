@@ -39,6 +39,10 @@ Hey there! Are you looking for learning Natural Language Processing? Then this n
   * Locality Sensitive Hashing (LSH)
   * Approximate Nearest Neighbors
   * Searching documents
+ 
+* Extra Resources:
+  * Linear Algebra with Numpy!
+  * Words Embeddings
 
 All questions related with the notebook can be ask in Threads to the profile @todo.es.relativo13
 
